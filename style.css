@@ -1,0 +1,34 @@
+body{
+    font-family: Georgia;
+    font-size:large;
+}
+header{
+    background-color: rgb(230, 230, 236);
+}
+nav{
+    background-color: rgb(227, 222, 216);
+    }
+main{
+    background-color: rgb(210, 218, 213);
+    font-size: 200%;}
+footer{
+    background-color: aliceblue;
+}
+li{
+    display: inline;
+    width: 3cm;
+}
+h1{
+    text-align: justify;
+    font-family: Verdana;
+    color: black;
+}
+p{
+    line-height: 1cm;
+}
+.main{
+    font-size: 40px;
+    background-color: rgb(84, 84, 228);
+    color: black;
+
+}
